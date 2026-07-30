@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'moonshotai/kimi-k2.6',
   'gpt-4o': 'deepseek-ai/deepseek-v3.1',
   'claude-3-opus': 'openai/gpt-oss-120b',
-  'claude-3-sonnet': 'openai/gpt-oss-20b',
+  'claude-3-sonnet': 'mistralai/mistral-medium-3.5-128b'
   'gemini-pro': 'minimax/minimax-m3',
 
 // Health check endpoint
